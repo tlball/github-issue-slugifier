@@ -1,5 +1,5 @@
 # Github Issue Slugifier Bookmarklet
-The purpose of this script is to make it easy to generate a branch name for every github issue. It is a small javascript script based on a similar PivotalTracker script written by @caseywatts.
+The purpose of this script is to make it easy to generate a branch name for every github issue. It is a small javascript script based on a similar PivotalTracker script written by https://github.com/caseywatts.
 
 ## How To Use
 
